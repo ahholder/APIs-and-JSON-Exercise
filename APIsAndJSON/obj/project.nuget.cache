@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "nxKH1RM88cHEsmrtrltGd2PRIVhm/WfW3wrSF07fBCkCRfETdVMihvUO8xVH6KDsK3AVJrOPp+nodUrqaSyQcA==",
+  "dgSpecHash": "LbK5HMQEsWGHRth5NE9ILIIWnG3wqHgYMBT74D8j4ReKMkSrvEo/9ztst5LH5500NMOKyt5FQe/cgWvBicpiLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ahold\\repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahold\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\ahold\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
