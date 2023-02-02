@@ -16,11 +16,16 @@ namespace APIsAndJSON
             Console.WriteLine("-------------------------");
             Console.WriteLine(Talker(1, QuoteGenerator.Swanson()));
             Console.WriteLine();
-            //Console.ReadLine();
             Console.WriteLine("-------------------------");
             Console.WriteLine("Exercise 2: Weather Forecast");
             Console.WriteLine("-------------------------");
             Console.WriteLine(OpenWeatherMapAPI.GetTempF(33.11,-87.11));
+            Console.WriteLine();
+
+            //No Bonus to avoid another account signup
+            /*Console.WriteLine("-------------------------");
+            Console.WriteLine("Bonus: Call of Duty Warfare");
+            Console.WriteLine("-------------------------");*/
         }
         static string Talker(int person, string words)
         {
